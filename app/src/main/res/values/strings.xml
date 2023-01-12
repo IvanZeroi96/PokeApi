@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="buscar_un_pokemon">Buscar un pokemon</string>
+</resources>
